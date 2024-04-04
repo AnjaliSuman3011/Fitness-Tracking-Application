@@ -3,7 +3,11 @@ project works for Shikarthy  Infotech Pvt Ltd
 
 
 # Term member are :-
-Sourav Kumar Gupta , Riya Singh , Yash Raj , Anjali Suman and Sandeep
+Anjali Suman
+Sourav Kumar Gupta 
+Riya Singh 
+Yash Raj 
+ Sandeep
 # Built With
 REACT JS 
 NODE JS ,
